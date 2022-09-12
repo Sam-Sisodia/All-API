@@ -1,0 +1,30 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #083045
+}
+
+h1{
+    color: white;
+
+    margin-top: 100px;
+    
+}
+
+h2{
+    color: #FFF270;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+
+
+p{
+    margin-top: 30px;
+    color: white;
+    font-size: 17;
+    font-weight: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
